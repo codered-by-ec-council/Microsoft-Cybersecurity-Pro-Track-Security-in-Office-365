@@ -1,0 +1,3 @@
+Smart reports and insights in the Security & Compliance Center Additional reading: https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/reports-and-insights-in-security-and-compliance?view=o365-worldwide
+
+Customize views: Monitor and view reports in the Microsoft 365 security center

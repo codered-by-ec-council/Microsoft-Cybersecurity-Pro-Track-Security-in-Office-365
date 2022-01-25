@@ -1,0 +1,3 @@
+List of supported appliances in Supported firewalls and proxies: https://docs.microsoft.com/en-us/cloud-app-security/create-snapshot-cloud-discovery-reports#supported-firewalls-and-proxies
+
+ How to investigate anomaly detection alerts: https://docs.microsoft.com/en-us/cloud-app-security/investigate-anomaly-alerts

@@ -1,0 +1,6 @@
+What permissions are needed to view ATP reports: https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/view-reports-for-atp?view=o365-worldwide#what-permissions-are-needed-to-view-the-atp-reports
+
+Additional reading: Office 365 threat investigation and response: https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/office-365-ti?view=o365-worldwide
+
+Additional reading: Smart reports and insights in the Office 365 Security & Compliance Center: https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/reports-and-insights-in-security-and-compliance?view=o365-worldwide
+

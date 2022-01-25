@@ -1,0 +1,1 @@
+Understanding management role groups: https://docs.microsoft.com/en-us/exchange/understanding-management-role-groups-exchange-2013-help?redirectedfrom=MSDN

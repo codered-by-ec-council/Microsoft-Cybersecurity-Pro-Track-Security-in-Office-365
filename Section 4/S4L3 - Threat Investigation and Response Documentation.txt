@@ -1,0 +1,5 @@
+Additional reading: For more information about Microsoft Graph Security API see the following:
+
+https://docs.microsoft.com/en-us/graph/security-dataflow
+https://docs.microsoft.com/en-us/graph/security-integration
+https://docs.microsoft.com/en-us/graph/api/resources/security-api-overview?view=graph-rest-1.0

@@ -1,0 +1,5 @@
+Additional reading: Azure Information Protection Documentation: https://docs.microsoft.com/en-us/information-protection/
+
+Additional reading: Overview of data loss prevention policies: https://docs.microsoft.com/en-us/microsoft-365/compliance/data-loss-prevention-policies?redirectSourcePath=%252fen-us%252farticle%252fOverview-of-data-loss-prevention-policies-1966b2a7-d1e2-4d92-ab61-42efbb137f5e&view=o365-worldwide
+
+Common attacks in 2020: https://phoenixnap.com/blog/cyber-security-attack-types

@@ -1,0 +1,7 @@
+Additional reading: For more information on Safe Links policy options, see the following resources:
+
+https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies?view=o365-worldwide
+
+https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/set-up-a-custom-do-not-rewrite-urls-list-with-atp?redirectSourcePath=%252fen-us%252farticle%252fSet-up-a-custom-do-not-rewrite-URLs-list-using-ATP-safe-links-35dbfd99-da5a-422b-9b0e-c6caf3b645fa&view=o365-worldwide
+
+Additional reading: Turn on Office 365 ATP for SharePoint, OneDrive, and Microsoft Teams: https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams?view=o365-worldwide

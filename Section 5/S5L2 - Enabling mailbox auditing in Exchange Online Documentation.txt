@@ -1,0 +1,4 @@
+Mailbox logging additional reading: https://docs.microsoft.com/en-us/microsoft-365/compliance/enable-mailbox-auditing?view=o365-worldwide
+
+Connect to Exchange Online remote PowerShell: https://docs.microsoft.com/en-us/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps
+

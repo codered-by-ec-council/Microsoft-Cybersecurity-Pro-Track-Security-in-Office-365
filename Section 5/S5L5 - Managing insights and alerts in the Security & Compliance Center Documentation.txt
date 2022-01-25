@@ -1,0 +1,3 @@
+Detailed properties in the audit log: https://docs.microsoft.com/en-us/microsoft-365/compliance/detailed-properties-in-the-office-365-audit-log?view=o365-worldwide
+
+Additional reading: https://techcommunity.microsoft.com/t5/microsoft-security-and/maintain-visibility-more-effectively-with-updates-to-alert/ba-p/327218

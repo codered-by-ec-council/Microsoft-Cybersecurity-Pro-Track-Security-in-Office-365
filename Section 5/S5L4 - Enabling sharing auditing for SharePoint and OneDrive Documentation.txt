@@ -1,0 +1,1 @@
+Manage Sharing settings in Sharepoint additional reading: https://docs.microsoft.com/en-us/sharepoint/turn-external-sharing-on-or-off

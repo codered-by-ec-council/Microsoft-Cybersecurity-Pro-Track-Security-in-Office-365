@@ -1,0 +1,9 @@
+Manage mailbox auditing: https://docs.microsoft.com/en-us/microsoft-365/compliance/enable-mailbox-auditing?view=o365-worldwide
+
+Search the audit log: https://docs.microsoft.com/en-us/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance?view=o365-worldwide#PickTab=Activities
+
+Detailed properties in the Office 365 audit log: https://docs.microsoft.com/en-us/microsoft-365/compliance/detailed-properties-in-the-office-365-audit-log?redirectSourcePath=%252fen-us%252farticle%252fdetailed-properties-in-the-office-365-audit-log-ce004100-9e7f-443e-942b-9b04098fcfc3&view=o365-worldwide
+
+Microsoft 365 Management Activity API: https://docs.microsoft.com/en-us/office/office-365-management-api/office-365-management-activity-api-reference
+
+Use Advanced Audit to investigate compromised accounts: https://docs.microsoft.com/en-us/microsoft-365/compliance/mailitemsaccessed-forensics-investigations?view=o365-worldwide

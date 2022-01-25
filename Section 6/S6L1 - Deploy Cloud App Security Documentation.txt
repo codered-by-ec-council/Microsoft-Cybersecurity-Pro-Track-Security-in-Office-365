@@ -1,0 +1,21 @@
+Cloud App Security licensing datasheet: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2NXYO
+
+Additional reading: Get started with Microsoft Cloud App Security: https://docs.microsoft.com/en-us/cloud-app-security/getting-started-with-cloud-app-security
+
+Additional reading: How to control cloud apps with policies: https://docs.microsoft.com/en-us/cloud-app-security/control-cloud-apps-with-policies
+
+ MCAS + AIP Integrations: https://www.youtube.com/watch?v=k7BSEYYLUnU&feature=youtu.be&list=PL8nfc9haGeb6EssMfvTSRVUi4o3cW1tRh
+
+Network requirements: https://docs.microsoft.com/en-us/cloud-app-security/network-requirements
+
+Service status: https://status.cloudappsecurity.com/
+
+Troubleshooting Cloud Discovery: https://docs.microsoft.com/en-us/cloud-app-security/troubleshooting-cloud-discovery
+
+Troubleshooting API Connectors using Error Messages: https://docs.microsoft.com/en-us/cloud-app-security/troubleshooting-api-connectors-using-error-messages
+
+Troubleshooting Content Inspection: https://docs.microsoft.com/en-us/cloud-app-security/troubleshooting-content-inspection
+
+Troubleshooting the SIEM Agent: https://docs.microsoft.com/en-us/cloud-app-security/troubleshooting-siem
+
+Troubleshooting Microsoft Cloud App Security policies: https://docs.microsoft.com/en-us/cloud-app-security/troubleshoot-policies

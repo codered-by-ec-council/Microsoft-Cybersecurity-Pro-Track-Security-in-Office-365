@@ -1,0 +1,14 @@
+Additional reading: Configure anti-malware policies in Office 365: https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/configure-anti-malware-policies?view=o365-worldwide
+
+Additional reading: Configure junk email settings on Exchange Online mailboxes in Office 365: https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/configure-junk-email-settings-on-exo-mailboxes?view=o365-worldwide
+
+Additional reading: Configure anti-spam policies in Office 365: https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/configure-your-spam-filter-policies?view=o365-worldwide
+
+Threat Protection Status report: https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/view-email-security-reports?view=o365-worldwide#threat-protection-status-report
+
+Additional reading: For more information on phishing and spoofing protection
+
+https://docs.microsoft.com/en-us/archive/blogs/tzink/how-antispoofing-protection-works-in-office-365
+https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/how-office-365-uses-spf-to-prevent-spoofing?redirectedfrom=MSDN&view=o365-worldwide
+https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email?redirectedfrom=MSDN&view=o365-worldwide
+https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/use-dmarc-to-validate-email?redirectedfrom=MSDN&view=o365-worldwide
